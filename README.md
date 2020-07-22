@@ -16,6 +16,14 @@ bigml_59c28831336c6604c800002a.csv
 
 Filename changed to: telecom-churn-data.csv in this repository
 
+## Contents 
+
+- churn_classifier.ipynb - Project Notebook
+- clf_functions.ipynb - Project Functions 
+- telecom_churn_data.csv - Data
+- README.md - Readme File
+- * .pdf - Presentation Slides
+
 ## Methods 
 
 I trained 3 classification models known to perform well in customer churn classification. There were:
