@@ -48,7 +48,7 @@ XGBoost had a recall of 85% and an accuracy of 96%
 
 Note the higher accuracy with XGBoost was due to the lower false positive rate. 
 
-!["Accuracy Scores"](figures/Accuracy%20Scores.png){width=250px}
+!["Accuracy Scores"](figures/Accuracy%20Scores.png){width=150px}
 
 ### Feature Importance
 
