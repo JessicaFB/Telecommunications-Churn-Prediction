@@ -48,6 +48,8 @@ XGBoost had a recall of 85% and an accuracy of 96%
 
 Note the higher accuracy with XGBoost was due to the lower false positive rate. 
 
+<img src="/Figures/Accuracy Scores.png" alt="Accuracy Scores" >
+
 ### Feature Importance
 
 The top 3 most important features were the same for Random Forest and XGBoost, and those were:
@@ -56,6 +58,8 @@ The top 3 most important features were the same for Random Forest and XGBoost, a
   #2: Total charges
   #3: Customer service calls (# of)
   
+<img src="/Figures/feat_rank_XGB.png" alt="XGBoost Feature Importances" >
+  
 ### EDA Insights
 
 We found that:
@@ -63,6 +67,10 @@ We found that:
 - Customers with international plans are more likely to churn, and that customers with international plans appeared to have slightly higher charges.
 - Customers who had made more customer service calls were more likely to churn.
 - When it came to charges there were two distinct modes of churners: those with significantly higher charges than non-churners, and those with lower charges than non-churners.
+
+<img src="/Figures/international plan.png" alt="International Plan" >
+<img src="/Figures/customer service plans.png" alt="Customer Service Plans" >
+<img src="/Figures/total day charge.png" alt="Total Day Charge" >
 
 ## Recommendations
 
