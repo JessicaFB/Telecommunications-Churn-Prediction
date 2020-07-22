@@ -58,7 +58,7 @@ The top 3 most important features were the same for Random Forest and XGBoost, a
   #2: Total charges
   #3: Customer service calls (# of)
   
-<img src="/Figures/feat_rank_XGB.png" alt="XGBoost Feature Importances" >
+!["Feature Importance"](figures/feat_rank_XGB.png)
   
 ### EDA Insights
 
@@ -68,9 +68,10 @@ We found that:
 - Customers who had made more customer service calls were more likely to churn.
 - When it came to charges there were two distinct modes of churners: those with significantly higher charges than non-churners, and those with lower charges than non-churners.
 
-<img src="/Figures/international plan.png" alt="International Plan" >
-<img src="/Figures/customer service plans.png" alt="Customer Service Plans" >
-<img src="/Figures/total day charge.png" alt="Total Day Charge" >
+!["International Plan"](figures/international%20plan.png)
+!["Customer Service Calls"](figures/customer%20service%20calls.png)
+!["Total Charges"](figures/total%20charges.png)
+
 
 ## Recommendations
 
