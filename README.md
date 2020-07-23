@@ -6,7 +6,9 @@
 
 ## Business Case
 
-Telecom, a telecommunications company is interested in knowing why they're losing customers and how they can predict customers who are likely to churn so they can target marketing efforts and retain these customers. Since the cost of aquiring customers is much higher than the cost of maintaining them, and losing customers also means losing revenue, this will increase their firm's profit and value. 
+Telecom, a telecommunications company is interested in knowing why they're losing customers and how they can predict customers who are likely to churn so they can target marketing efforts to retain these customers. 
+
+Since the cost of aquiring customers is much higher than the cost of maintaining them, and losing customers also means losing revenue, these efforts will increase their firm's profit and value. 
 
 ## Data
 
