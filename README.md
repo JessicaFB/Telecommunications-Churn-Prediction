@@ -24,7 +24,7 @@ Filename changed to: telecom-churn-data.csv in this repository
 - clf_functions.ipynb - Project Functions 
 - telecom_churn_data.csv - Data
 - README.md - Readme File
-- * .pdf - Presentation Slides
+- Telecom-Churn-Prediction.pdf - Presentation Slides
 
 ## Methods 
 
