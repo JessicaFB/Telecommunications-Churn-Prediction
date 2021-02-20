@@ -119,5 +119,5 @@ As far as data science work, I would like to sus out the two groups of charges t
 
 For any additional questions, please feel free to connect with me at jlforrestbaldini@gmail.com or on LinkedIn at https://www.linkedin.com/in/jessica-forrest-baldini.
 
-### Social Preview Photo
+#### Social Preview Photo
 <span>Photo by <a href="https://unsplash.com/@jupp?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Jonathan Kemper</a> on <a href="https://unsplash.com/s/photos/telecommunications?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
